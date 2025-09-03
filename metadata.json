@@ -1,5 +1,0 @@
-{
-  "name": "AI 年齡變換器",
-  "description": "上傳一張人物照片，使用 Gemini AI 將其變換為90歲、45歲和9歲三種樣貌。您可以下載結果並回顧過去的創作。",
-  "requestFramePermissions": []
-}
